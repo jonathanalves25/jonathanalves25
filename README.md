@@ -5,6 +5,14 @@
  <img src="https://komarev.com/ghpvc/?username=jonathanalves25&label=Profile%20views&color=0e75b6&style=flat" alt="Jonathan alves" /> 
 </p>
 
+<div align="center">
+ <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 <div>
   <a href="https://github.com/jonathanalves25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanalves25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
