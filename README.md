@@ -43,9 +43,16 @@
   </a>
 </p>
 
-- Database
+- Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman," />
   </a>
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalves25\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jonathanalves25&theme=midnight-purple)](https://git.io/streak-stats)
