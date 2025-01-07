@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan!</h1>
-<h3 align="center">💻 Front-end Developer specialized in React.JS</h3>
+<h3 align="center">💻 Fullstack Developer specialized in React.JS and Python</h3>
 <p align="center">🛠️ I have been working professionally as a GeneXus developer since 2021. I have a solid foundation in ReactJS, GeneXus, SQL. </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=jonathanalves25&label=Profile%20views&color=0e75b6&style=flat" alt="Jonathan alves" /> 
