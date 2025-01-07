@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan!</h1>
 <h3 align="center">💻 Fullstack Developer specialized in React.JS and Python</h3>
-<p align="center">🛠️ I have been working professionally as a GeneXus developer since 2021. I have a solid foundation in ReactJS, GeneXus, SQL. </p>
+<p align="center">🛠️ I have been working professionally as a GeneXus developer since 2021. I have a solid foundation in ReactJS, Python, GeneXus and SQL. </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=jonathanalves25&label=Profile%20views&color=0e75b6&style=flat" alt="Jonathan alves" /> 
 </p>
@@ -21,7 +21,6 @@
 - 🌱 I’m currently improving my skills in Front end
 
 - 👨‍💻 All of my projects are available at [https://github.com/jonathanalves25/projetos_pessoais]
-- 💬 Ask me about **HTML, CSS, JS, TS, REACT.JS, TAILWIND, STYLED COMPONENTS and more!**
 
 - 📫 How to reach me **jonathan.alves25@outlook.com**
 
